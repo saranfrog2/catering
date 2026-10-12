@@ -1,0 +1,12 @@
+{
+  "schemaId": "urn:gala:schema:appearance:2.0.0",
+  "schemaVersion": "2.0.0",
+  "theme": "@rathnasgala2/theme-default@^4.0.0",
+  "colorMode": { "allowed": ["light", "dark", "system"], "default": "system" },
+  "headerComposition": "mark-and-name",
+  "footerComposition": "profile",
+  "typeScale": "standard",
+  "fontAssetRefs": [],
+  "tokens": {},
+  "extensions": {}
+}

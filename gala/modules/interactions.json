@@ -1,0 +1,17 @@
+{
+  "schemaId": "urn:gala:schema:interactions-config:2.0.0",
+  "schemaVersion": "2.0.0",
+  "reactions": {
+    "enabled": true,
+    "definitions": []
+  },
+  "comments": {
+    "enabled": true,
+    "allowReplies": true,
+    "maxDepth": 3
+  },
+  "publicCounts": {
+    "reactions": true,
+    "comments": true
+  }
+}

@@ -1,0 +1,7 @@
+# Build output from `publish-action validate|build|preview` (default
+# --output/--work locations under .gala/, and any custom location you pass).
+.gala/
+dist/
+
+# Local tooling
+node_modules/

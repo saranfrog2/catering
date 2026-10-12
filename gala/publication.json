@@ -1,0 +1,13 @@
+{
+  "schemaId": "urn:gala:schema:publication:2.0.0",
+  "schemaVersion": "2.0.0",
+  "id": "00000000-0000-7000-8000-000000000001",
+  "slug": "my-publication",
+  "title": "PLACEHOLDER-My Publication",
+  "description": "PLACEHOLDER — essays, field notes, and practical ideas for people building thoughtful work.",
+  "canonicalBase": "https://example.invalid/",
+  "defaultLanguage": "en-US",
+  "authors": ["gala/authors/placeholder-author.json"],
+  "socialLinks": [],
+  "extensions": {}
+}
